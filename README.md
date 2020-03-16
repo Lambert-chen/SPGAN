@@ -1,6 +1,6 @@
 # SP-GAN: Self-growing and Pruning GenerativeAdversarial Networks
 ## Note
-Each file has a brief introduction function and operation mode
+Each file has a brief introduction function and operation mode.
 ## Platform
 python3.6  TensorFlow-GPU >= 1.14.0   numpy->=1.13.3  opencv-python>=3.4.0.12  We recommend Anaconda3.
 Both Linux and Windows are supported, but we strongly recommend Linux for performance and compatibility reasons.
