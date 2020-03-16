@@ -12,3 +12,5 @@ This paper presents a new Self-growing and Pruning Generative Adversarial Networ
 ![image](https://github.com/Lambert-chen/SPGAN/blob/master/image/frame.png)
 ## Feature map visualization
 ![image](https://github.com/Lambert-chen/SPGAN/blob/master/image/Feature_map.png)
+
+If you have any question about this code, feel free to reach me(yao_chen@aliyun.com)
