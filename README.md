@@ -10,3 +10,5 @@ This paper presents a new Self-growing and Pruning Generative Adversarial Networ
 17 loss function that is treated as a variable loss computational process to train the proposed SP-GAN model. By design, the hyper-parameters of the loss function can constantly adapt to different training levels.
 ## SP-GAN framework
 ![image](https://github.com/Lambert-chen/SPGAN/blob/master/image/frame.png)
+## Feature map visualization
+![image](https://github.com/Lambert-chen/SPGAN/blob/master/image/Feature_map.png)
