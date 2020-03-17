@@ -3,6 +3,7 @@
 Each file has a brief introduction function and operation mode.
 ## Platform
 python3.6  TensorFlow-GPU >= 1.14.0   numpy->=1.13.3  opencv-python>=3.4.0.12  We recommend Anaconda3.
+
 Both Linux and Windows are supported, but we strongly recommend Linux for performance and compatibility reasons.
 ## Abstract
 This paper presents a new Self-growing and Pruning Generative Adversarial Network (SP-GAN) for realistic image generation. In contrast to traditional GAN models, our SPGAN is able to dynamically adjust the size and architecture of a network in the training stage, by using the proposed self-growing and pruning methods. To be more specific, we first train two seed networks as the generator and discriminator, each only
@@ -14,4 +15,5 @@ This paper presents a new Self-growing and Pruning Generative Adversarial Networ
 ![image](https://github.com/Lambert-chen/SPGAN/blob/master/image/Feature_map.png)
 
 Our work will continue to be improved and the repository will be updated accordingly.
+
 If you have any question about this code, feel free to reach me(yao_chen@aliyun.com).
